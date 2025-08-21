@@ -1,4 +1,4 @@
-<h1>Challenge amigo Secreto</h1>
+<h1> Juego del  amigo Secreto</h1>
 Este proyecto es un ejemplo práctico de cómo manipular el DOM (Document Object Model) con JavaScript. Permite mostrar una lista de amigos en una página web y agregar nuevos amigos mediante un campo de texto.
 
 Pasos 
