@@ -1,5 +1,5 @@
 
-let amigo = ["jairo"];
+let amigo = [];
 
 
 let lista= document.getElementById("listaAmigos");
